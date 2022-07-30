@@ -1,0 +1,243 @@
+*{
+    font-family: sans-serif;
+}
+.header{
+    display: inline-block;
+    margin-left: 1cm;
+    margin-top: 30px;
+    height: 2cm;
+}
+.apf{
+position: relative;
+display: inline-block;
+font-size: 45px;
+left: 36px;
+z-index: 2;
+top:2px;
+color: white;
+}
+.fbk{
+    position: relative;
+    z-index: 1;
+}
+.pr{
+    font-weight: 300;
+    font-size: 1.4cm;
+    color: black;
+    margin-top: 1,16cm;
+    display: inline;
+    font-family: sans-serif;  
+margin-right: 19cm;
+}
+
+button {
+    background-color: #fff;
+    border: none;
+    font-size: 25px;
+    vertical-align: bottom;
+}
+.otstp{
+    display: flex;
+    justify-content: flex-start;
+    width: 65%;
+    text-align: left;
+
+}
+.btns{
+   display: flex;
+    justify-content: space-between;
+    padding-right: 1cm;
+    height: 50px;
+ }
+ .products{
+    border-bottom: 5px solid #5094f2;
+ }
+.bgp{
+    position: relative;
+    height: 600px;
+    width: 100%;
+    z-index: 1;
+    bottom:136px;
+    margin-top: 0px;
+
+}
+.phone{
+    position: relative;
+    bottom: 16cm;
+    left: 5cm;
+    z-index: 2;
+}
+.ptxt{
+    display: inline-block;
+    z-index: 2;
+    position: relative;
+    left: 30cm;
+    top:5cm;
+    color: #fff;
+    font-weight: 300;
+    font-size: 50px;
+margin: 0px;
+}
+.ptxt2{
+    display: inline-block;
+    z-index: 2;
+    position: relative;
+    left: 30cm;
+    padding-left: 0cm;
+    top:200px ;
+    color: #fff;
+    font-weight: 300;
+    font-size: 35px;
+margin: 0px;
+}
+.ptxt3{
+    display: inline-block;
+    z-index: 2;
+    position: relative;
+    left: 30cm;
+    padding-left: 0cm;
+    top: 210px;
+    color: #fff;
+    font-weight: 300;
+    font-size: 35px;
+margin: 0px;
+}
+.sign{
+    display: inline-block;
+    position: relative;
+    bottom:19.4cm;
+    left: 19.3cm;
+    z-index: 3;
+    background-color: #5094f2;
+    color: white;
+    font-size: 30px;
+}
+.bline{
+display: inline-block;
+position: relative;
+z-index: 2;
+bottom:720px;
+left: 950px;
+width: 6.2cm;
+
+}
+.blines{
+    display: inline-block;
+    position: relative;
+    z-index: 3;
+    bottom:19.5cm;
+    left: 19.3cm;
+}
+.rezka{
+    display: inline-block;
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    bottom: 650px;
+    height: 100px;
+}
+.banner{
+    height:600px;
+}
+.coll{
+    display: inline-block;
+    text-align: center;
+    margin: 2.3cm 80px;
+}
+.krgl{
+    text-align: center;
+    font-size: 0.6cm;
+    font-family: sans-serif; 
+    color: #5094f2; 
+}
+.lisn{
+    font-size: 0.5cm;
+    color: #d0d0d0;
+}
+.shape1{
+    position: relative;
+left: 40px;
+}
+.shape1m{
+    
+    margin-bottom: 10px;
+    
+   position: relative;
+   right: 95px;
+   bottom: 25px;
+}
+.shape2{
+    position: relative;
+left: 40px;
+}
+.shape2m{
+    margin-bottom: 10px;
+   position: relative;
+   right: 107px;
+   bottom: 35px;
+}
+.shape3{
+    position: relative;
+left: 40px;
+}
+.shape3m{
+    margin-bottom: 10px;
+   position: relative;
+   right: 108px;
+   bottom: 38px;
+}
+.header2{
+   text-align: left;
+    color: #6f7173;
+    margin-left: 1.8cm;
+    font-size: 50px;
+    margin-bottom: 1.5cm;
+    font-weight: 300;
+}
+.prct{
+display: inline-block;
+padding-left: 2cm;
+
+
+}
+h2{
+    display: inline;
+    padding-left: 30cm;
+ font-size: 30px;
+ font-weight: 300;
+ color: #6f7173;
+ 
+}
+.lstt{
+    vertical-align: top;
+    display: inline-block;
+    padding-left: 680px;
+    padding-top: 20px;
+    font-size: 20px;
+    color: #999999;
+    font-weight: 300;
+}
+.pp1{
+    padding-bottom: 10px;
+}.pp2{
+    padding-bottom: 10px;
+}.pp3{
+    padding-bottom: 10px;
+}.pp4{
+    padding-bottom: 10px;
+}.pp5{
+    padding-bottom: 10px;
+}.pp6{
+    padding-bottom: 10px;
+}.pp7{
+    padding-bottom: 10px;
+}
+.footer{
+    width: 100%;
+    background-color: #fff;
+    border-top: 1px solid #999999;
+    text-align: center;
+    font-weight: 300;
+    color: #999999;
+    font-size: 15px;
+}
